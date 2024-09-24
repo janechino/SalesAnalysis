@@ -61,6 +61,6 @@ In the Initial data preparation phase, the following Task was performed;
 
 ### Tools and Libraries
 
-Programming Language: R; For Data cleaning and Data analysis
-PowerBI: For Dashboarding, Visualizations and reporting
-Libraries: ggplot2 (R), tidyverse ,readr, lubridate, dplyr etc.
+- R Programming Language: For Data cleaning and Data analysis
+- PowerBI: For Dashboarding, Visualizations and reporting
+- Libraries: ggplot2 (R), tidyverse ,readr, lubridate, dplyr etc.
