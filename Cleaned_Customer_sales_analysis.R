@@ -6,7 +6,7 @@ library(lubridate)
 library(dplyr)
 
 
-## STEP TWO:Upload Customer Sales Data (csv files) here
+## STEP TWO: Upload Customer Sales Data (csv files) here
 Q1 <- read.csv("C:/Users/USER-PC/Downloads/Online Shop Customer Sales Data (8).csv")
 Q2 <- read.csv("C:/Users/USER-PC/Downloads/shopping_behavior_updated (1).csv")
 Q9 <- read_csv("C:/Users/USER-PC/Downloads/shopping_trends.csv")
@@ -207,7 +207,7 @@ Sales.Data <- Sales.Data %>% filter(!is.na(Product.Category))
 str(Sales.Data)  #Confirm Data structure
 
 
-## STEP 4: CONDUCTING DESCRIPTIVE ANALYSIS (FINDING KEYMETRICS)
+## STEP FOUR: CONDUCTING DESCRIPTIVE ANALYSIS (FINDING KEYMETRICS)
 
 ## Finding Customer's Retention Rate
 total_customers <- nrow(Sales.Data)  # Total number of customers
