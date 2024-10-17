@@ -14,9 +14,9 @@ By leveraging the results of a customer sales analysis, businesses can make data
 ### Dataset
 
 #### Data source
-- Sales Data: The primary dataset used for this analysis is the 'Online Shop Customer Sales Data (8).csv'
-- Customer Segmentation Data: The primary dataset used for this analysis is the 'shopping_behavior_updated Data.csv.
-- Customer Sales Data: The primary dataset used for this analysis is the 'shopping_trends.csv'
+- Sales Data: The primary dataset used for this analysis is the [Online Shop Customer Sales Data (8).csv](https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data)
+- Customer Segmentation Data: The primary dataset used for this analysis is the [shopping_behavior_updated Data.csv](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)
+- Customer Sales Data: The primary dataset used for this analysis is the [shopping_trends.csv]((https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends.csv))
 
 #### Main columns/features:
 - Sales.Channel: Channel through which the sale was made
