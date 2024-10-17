@@ -16,7 +16,7 @@ By leveraging the results of a customer sales analysis, businesses can make data
 #### Data source
 - Sales Data: The primary dataset used for this analysis is the [Online Shop Customer Sales Data (8).csv](https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data)
 - Customer Segmentation Data: The primary dataset used for this analysis is the [shopping_behavior_updated Data.csv](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)
-- Customer Sales Data: The primary dataset used for this analysis is the [shopping_trends.csv]((https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends.csv))
+- Customer Sales Data: The primary dataset used for this analysis is the [shopping_trends.csv](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends.csv)
 
 #### Main columns/features:
 - Sales.Channel: Channel through which the sale was made
@@ -26,7 +26,8 @@ By leveraging the results of a customer sales analysis, businesses can make data
 - Age: Helps in segmenting customers by age groups, analyzing purchasing behavior by age, and targeting specific age demographics in marketing.
 - Gender: Analyzes differences in purchasing patterns between genders and assists in creating gender-targeted marketing strategies.
 - Total.Revenue: Measures sales performance, evaluates product profitability, and determines customer value for the business.
-- Season:  Identifies seasonal sales trends and product demand fluctuations, helping with inventory and promotional planning.
+- Season: Identifies seasonal sales trends and product demand fluctuations, helping with inventory and promotional planning.
+- Location: Helps in segmenting customers by location, analyzing purchasing behavior by location, and targeting specific location demographics in marketing.
 
 
 ### Project Objectives
@@ -61,6 +62,6 @@ In the Initial data preparation phase, the following Task was performed;
 
 ### Tools and Libraries
 
-- R Programming Language: For Data cleaning and Data analysis
-- PowerBI: For Dashboarding, Visualizations and reporting
+- R Programming Language: For Data cleaning and Data Analysis
+- PowerBI: For Dashboarding, Visualizations and reporting interactivity, download the .pbix file [here](https://drive.google.com/open?id=1_YhpJc9eqKZ6bu3W_bOYykeUVdNfs38G&usp=drive_fs)
 - Libraries: ggplot2 (R), tidyverse ,readr, lubridate, dplyr etc.
