@@ -1,5 +1,4 @@
 # Customer Sales Analysis
-## Data analysis Internship task by CodeBugAI
 
 
 ### Project Overview
